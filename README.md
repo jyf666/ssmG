@@ -1,1 +1,1 @@
-# ssmG
+# ssmG 使用gradle作为项目构建工具的ssm框架demo
