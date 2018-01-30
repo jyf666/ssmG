@@ -17,6 +17,24 @@
           <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis:3.2.6" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-log4j12:1.7.7" />
+          <element id="library" level="project" name="Gradle: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Gradle: com.alibaba:fastjson:1.1.41" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.7" />
+          <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="library" level="project" name="Gradle: commons-fileupload:commons-fileupload:1.3.1" />
+          <element id="library" level="project" name="Gradle: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Gradle: commons-codec:commons-codec:1.9" />
+          <element id="library" level="project" name="Gradle: com.sun.mail:javax.mail:1.5.0" />
+          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:5.1.30" />
+          <element id="library" level="project" name="Gradle: commons-dbcp:commons-dbcp:1.2.2" />
+          <element id="library" level="project" name="Gradle: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Gradle: javax:javaee-api:7.0" />
+          <element id="library" level="project" name="Gradle: commons-pool:commons-pool:1.3" />
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis-spring:1.2.2" />
+          <element id="library" level="project" name="Gradle: javax.activation:activation:1.1" />
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.2.RELEASE/70648d0393b5c2cc97ba16a008a743a7ab48b5db/spring-webmvc-4.0.2.RELEASE.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.2.RELEASE/fb6a008cade809f6b39a21d6a5cf908f54c3c354/spring-web-4.0.2.RELEASE.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.springframework/spring-oxm/4.0.2.RELEASE/6600281e3cdeea8a6c74506e72437e6a21f3144f/spring-oxm-4.0.2.RELEASE.jar" />
@@ -29,26 +47,8 @@
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.springframework/spring-beans/4.0.2.RELEASE/d8be6f05d3d2adee55dc2f949ab02d9ee82e2220/spring-beans-4.0.2.RELEASE.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.2.RELEASE/7898f8d42d98bcd8cf1c003b804571a37155553f/spring-expression-4.0.2.RELEASE.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.2.RELEASE/75f738808c84fe3365e8e60edf3ad713667a5be1/spring-core-4.0.2.RELEASE.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.6/4c53554a5f32a4315eeb4dbf74faf49cec449f5f/mybatis-3.2.6.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/javax/javaee-api/7.0/51399f902cc27a808122edcbebfaa1ad989954ba/javaee-api-7.0.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.30/203cca178350b60899be36d0e56029eca7430d8/mysql-connector-java-5.1.30.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/commons-dbcp/commons-dbcp/1.2.2/4fd4c6110e9bca3a655b717eb2e5920febb8403d/commons-dbcp-1.2.2.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/jstl/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.7/58f588119ffd1702c77ccab6acb54bfb41bed8bd/slf4j-log4j12-1.7.7.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.41/a244aa752b9e0210d0e50b5c1e11319711ed9290/fastjson-1.1.41.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/2b8019b6249bb05d81d3a3094e468753e2b21311/slf4j-api-1.7.7.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7/jackson-mapper-asl-1.9.13.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/c621b54583719ac0310404463d6d99db27e1052c/commons-fileupload-1.3.1.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.0/ec2410fdf7e0a3022e7c2a2e6241039d1abc1e98/javax.mail-1.5.0.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/commons-pool/commons-pool/1.3/3231230c1d7631b66a74d1c4653cfd65a6f9ea0/commons-pool-1.3.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.13/3c304d70f42f832e0a86d45bd437f692129299a4/jackson-core-asl-1.9.13.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/../../GradleRepository/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" />
         </element>
       </element>
     </root>
